@@ -27,4 +27,4 @@ BEGIN
             WHERE users.id = user_id;
     END IF;
 END $$
-DELIMITER ;
+DELIMITER;
